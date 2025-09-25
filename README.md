@@ -104,3 +104,15 @@ npm run lint-test     Test all code is linted properly
 ```
 
 #### And that should be it! Get Hacking...
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0120-triangle](https://github.com/dennis23314063/LeetHub/tree/master/0120-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/dennis23314063/LeetHub/tree/master/0120-triangle) |
+<!---LeetCode Topics End-->
