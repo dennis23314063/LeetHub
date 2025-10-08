@@ -115,6 +115,7 @@ npm run lint-test     Test all code is linted properly
 | [0611-valid-triangle-number](https://github.com/dennis23314063/LeetHub/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/dennis23314063/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/dennis23314063/LeetHub/tree/master/1612-avoid-flood-in-the-city) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/dennis23314063/LeetHub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,11 +124,13 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/dennis23314063/LeetHub/tree/master/0611-valid-triangle-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/dennis23314063/LeetHub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/dennis23314063/LeetHub/tree/master/0611-valid-triangle-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/dennis23314063/LeetHub/tree/master/1612-avoid-flood-in-the-city) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/dennis23314063/LeetHub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Greedy
 |  |
 | ------- |
@@ -139,6 +142,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0611-valid-triangle-number](https://github.com/dennis23314063/LeetHub/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/dennis23314063/LeetHub/tree/master/1018-largest-perimeter-triangle) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/dennis23314063/LeetHub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Math
 |  |
 | ------- |
