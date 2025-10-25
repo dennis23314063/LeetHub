@@ -157,6 +157,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/dennis23314063/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1642-water-bottles](https://github.com/dennis23314063/LeetHub/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/dennis23314063/LeetHub/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3336-water-bottles-ii](https://github.com/dennis23314063/LeetHub/tree/master/3336-water-bottles-ii) |
 ## Simulation
 |  |
