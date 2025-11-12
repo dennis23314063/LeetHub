@@ -120,6 +120,7 @@ npm run lint-test     Test all code is linted properly
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dennis23314063/LeetHub/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dennis23314063/LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dennis23314063/LeetHub/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dennis23314063/LeetHub/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dennis23314063/LeetHub/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dennis23314063/LeetHub/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dennis23314063/LeetHub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -168,6 +169,7 @@ npm run lint-test     Test all code is linted properly
 | [1817-calculate-money-in-leetcode-bank](https://github.com/dennis23314063/LeetHub/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dennis23314063/LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/dennis23314063/LeetHub/tree/master/2288-count-operations-to-obtain-zero) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dennis23314063/LeetHub/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3336-water-bottles-ii](https://github.com/dennis23314063/LeetHub/tree/master/3336-water-bottles-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dennis23314063/LeetHub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Simulation
@@ -222,4 +224,8 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dennis23314063/LeetHub/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Number Theory
+|  |
+| ------- |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dennis23314063/LeetHub/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 <!---LeetCode Topics End-->
