@@ -199,6 +199,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dennis23314063/LeetHub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/dennis23314063/LeetHub/tree/master/1612-avoid-flood-in-the-city) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/dennis23314063/LeetHub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dennis23314063/LeetHub/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dennis23314063/LeetHub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Heap (Priority Queue)
@@ -208,6 +209,7 @@ npm run lint-test     Test all code is linted properly
 ## Prefix Sum
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/dennis23314063/LeetHub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2625-increment-submatrices-by-one](https://github.com/dennis23314063/LeetHub/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dennis23314063/LeetHub/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Counting
@@ -220,6 +222,7 @@ npm run lint-test     Test all code is linted properly
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dennis23314063/LeetHub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/dennis23314063/LeetHub/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dennis23314063/LeetHub/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/dennis23314063/LeetHub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dennis23314063/LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Stack
 |  |
@@ -233,4 +236,8 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dennis23314063/LeetHub/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/dennis23314063/LeetHub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
