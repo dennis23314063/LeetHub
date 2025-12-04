@@ -8,10 +8,12 @@ public:
         int mod = 1e9+7;
         long long ans = 0;
         long long sum= 0;
+        long long curr =0;
         for(auto &[_,x]:m){
             if(x<=1)continue;
-            ans+=sum*x*(x-1)/2LL;
-            sum+=x*1LL*(x-1)/2LL;
+            curr = x*1LL*(x-1)/2;
+            ans+=sum*curr;
+            sum+=curr;
         }
         return ans%mod;
     }
