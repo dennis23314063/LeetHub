@@ -130,6 +130,7 @@ npm run lint-test     Test all code is linted properly
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dennis23314063/LeetHub/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dennis23314063/LeetHub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/dennis23314063/LeetHub/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/dennis23314063/LeetHub/tree/master/3623-count-number-of-trapezoids-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -183,6 +184,7 @@ npm run lint-test     Test all code is linted properly
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dennis23314063/LeetHub/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-water-bottles-ii](https://github.com/dennis23314063/LeetHub/tree/master/3336-water-bottles-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dennis23314063/LeetHub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3623-count-number-of-trapezoids-i](https://github.com/dennis23314063/LeetHub/tree/master/3623-count-number-of-trapezoids-i) |
 ## Simulation
 |  |
 | ------- |
@@ -213,6 +215,7 @@ npm run lint-test     Test all code is linted properly
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/dennis23314063/LeetHub/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dennis23314063/LeetHub/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dennis23314063/LeetHub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3623-count-number-of-trapezoids-i](https://github.com/dennis23314063/LeetHub/tree/master/3623-count-number-of-trapezoids-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -253,4 +256,8 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [1018-binary-prefix-divisible-by-5](https://github.com/dennis23314063/LeetHub/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dennis23314063/LeetHub/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/dennis23314063/LeetHub/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
