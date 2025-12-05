@@ -127,6 +127,7 @@ npm run lint-test     Test all code is linted properly
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dennis23314063/LeetHub/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/dennis23314063/LeetHub/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dennis23314063/LeetHub/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/dennis23314063/LeetHub/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dennis23314063/LeetHub/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dennis23314063/LeetHub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/dennis23314063/LeetHub/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -183,6 +184,7 @@ npm run lint-test     Test all code is linted properly
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dennis23314063/LeetHub/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dennis23314063/LeetHub/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-water-bottles-ii](https://github.com/dennis23314063/LeetHub/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/dennis23314063/LeetHub/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dennis23314063/LeetHub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/dennis23314063/LeetHub/tree/master/3623-count-number-of-trapezoids-i) |
 ## Simulation
@@ -227,6 +229,7 @@ npm run lint-test     Test all code is linted properly
 | [2625-increment-submatrices-by-one](https://github.com/dennis23314063/LeetHub/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/dennis23314063/LeetHub/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dennis23314063/LeetHub/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/dennis23314063/LeetHub/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Counting
 |  |
 | ------- |
