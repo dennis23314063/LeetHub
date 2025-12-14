@@ -139,6 +139,7 @@ npm run lint-test     Test all code is linted properly
 | [0120-triangle](https://github.com/dennis23314063/LeetHub/tree/master/0120-triangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dennis23314063/LeetHub/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dennis23314063/LeetHub/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/dennis23314063/LeetHub/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dennis23314063/LeetHub/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Two Pointers
 |  |
@@ -183,6 +184,7 @@ npm run lint-test     Test all code is linted properly
 | [1642-water-bottles](https://github.com/dennis23314063/LeetHub/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/dennis23314063/LeetHub/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/dennis23314063/LeetHub/tree/master/1925-count-square-sum-triples) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/dennis23314063/LeetHub/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dennis23314063/LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/dennis23314063/LeetHub/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dennis23314063/LeetHub/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -246,6 +248,7 @@ npm run lint-test     Test all code is linted properly
 | [1636-number-of-substrings-with-only-1s](https://github.com/dennis23314063/LeetHub/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dennis23314063/LeetHub/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dennis23314063/LeetHub/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/dennis23314063/LeetHub/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dennis23314063/LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Stack
 |  |
