@@ -110,6 +110,7 @@ npm run lint-test     Test all code is linted properly
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/dennis23314063/LeetHub/tree/master/0066-plus-one) |
 | [0120-triangle](https://github.com/dennis23314063/LeetHub/tree/master/0120-triangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dennis23314063/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
 | [0611-valid-triangle-number](https://github.com/dennis23314063/LeetHub/tree/master/0611-valid-triangle-number) |
@@ -183,6 +184,7 @@ npm run lint-test     Test all code is linted properly
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/dennis23314063/LeetHub/tree/master/0066-plus-one) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dennis23314063/LeetHub/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/dennis23314063/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/dennis23314063/LeetHub/tree/master/1523-count-odd-numbers-in-an-interval-range) |
