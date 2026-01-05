@@ -122,6 +122,7 @@ npm run lint-test     Test all code is linted properly
 | [1612-avoid-flood-in-the-city](https://github.com/dennis23314063/LeetHub/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dennis23314063/LeetHub/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dennis23314063/LeetHub/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1975-maximum-matrix-sum](https://github.com/dennis23314063/LeetHub/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dennis23314063/LeetHub/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/dennis23314063/LeetHub/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dennis23314063/LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -169,6 +170,7 @@ npm run lint-test     Test all code is linted properly
 | [1612-avoid-flood-in-the-city](https://github.com/dennis23314063/LeetHub/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dennis23314063/LeetHub/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dennis23314063/LeetHub/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1975-maximum-matrix-sum](https://github.com/dennis23314063/LeetHub/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/dennis23314063/LeetHub/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/dennis23314063/LeetHub/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Sorting
@@ -222,6 +224,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/dennis23314063/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
+| [1975-maximum-matrix-sum](https://github.com/dennis23314063/LeetHub/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dennis23314063/LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2625-increment-submatrices-by-one](https://github.com/dennis23314063/LeetHub/tree/master/2625-increment-submatrices-by-one) |
 ## Hash Table
