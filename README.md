@@ -216,10 +216,12 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/dennis23314063/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dennis23314063/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/dennis23314063/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dennis23314063/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -292,4 +294,12 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/dennis23314063/LeetHub/tree/master/1925-count-square-sum-triples) |
+## Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dennis23314063/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dennis23314063/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
