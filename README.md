@@ -216,11 +216,13 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/dennis23314063/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dennis23314063/LeetHub/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dennis23314063/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/dennis23314063/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dennis23314063/LeetHub/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dennis23314063/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Matrix
 |  |
@@ -232,6 +234,7 @@ npm run lint-test     Test all code is linted properly
 ## Hash Table
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dennis23314063/LeetHub/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dennis23314063/LeetHub/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dennis23314063/LeetHub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/dennis23314063/LeetHub/tree/master/1612-avoid-flood-in-the-city) |
@@ -297,9 +300,11 @@ npm run lint-test     Test all code is linted properly
 ## Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dennis23314063/LeetHub/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dennis23314063/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dennis23314063/LeetHub/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dennis23314063/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
