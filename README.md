@@ -111,6 +111,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/dennis23314063/LeetHub/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/dennis23314063/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/dennis23314063/LeetHub/tree/master/0120-triangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dennis23314063/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
 | [0611-valid-triangle-number](https://github.com/dennis23314063/LeetHub/tree/master/0611-valid-triangle-number) |
@@ -142,6 +143,7 @@ npm run lint-test     Test all code is linted properly
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/dennis23314063/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/dennis23314063/LeetHub/tree/master/0120-triangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dennis23314063/LeetHub/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dennis23314063/LeetHub/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -227,6 +229,7 @@ npm run lint-test     Test all code is linted properly
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/dennis23314063/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dennis23314063/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
 | [1975-maximum-matrix-sum](https://github.com/dennis23314063/LeetHub/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dennis23314063/LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -275,10 +278,12 @@ npm run lint-test     Test all code is linted properly
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/dennis23314063/LeetHub/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dennis23314063/LeetHub/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/dennis23314063/LeetHub/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dennis23314063/LeetHub/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Number Theory
 |  |
