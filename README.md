@@ -134,6 +134,7 @@ npm run lint-test     Test all code is linted properly
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/dennis23314063/LeetHub/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/dennis23314063/LeetHub/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dennis23314063/LeetHub/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/dennis23314063/LeetHub/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/dennis23314063/LeetHub/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dennis23314063/LeetHub/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dennis23314063/LeetHub/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -299,6 +300,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [1018-binary-prefix-divisible-by-5](https://github.com/dennis23314063/LeetHub/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dennis23314063/LeetHub/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/dennis23314063/LeetHub/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Geometry
 |  |
 | ------- |
