@@ -145,6 +145,7 @@ npm run lint-test     Test all code is linted properly
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dennis23314063/LeetHub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/dennis23314063/LeetHub/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/dennis23314063/LeetHub/tree/master/3623-count-number-of-trapezoids-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/dennis23314063/LeetHub/tree/master/3634-minimum-removals-to-balance-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -193,6 +194,7 @@ npm run lint-test     Test all code is linted properly
 | [3075-maximize-happiness-of-selected-children](https://github.com/dennis23314063/LeetHub/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dennis23314063/LeetHub/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/dennis23314063/LeetHub/tree/master/3531-count-covered-buildings) |
+| [3634-minimum-removals-to-balance-array](https://github.com/dennis23314063/LeetHub/tree/master/3634-minimum-removals-to-balance-array) |
 ## Math
 |  |
 | ------- |
@@ -324,4 +326,8 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dennis23314063/LeetHub/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dennis23314063/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [3634-minimum-removals-to-balance-array](https://github.com/dennis23314063/LeetHub/tree/master/3634-minimum-removals-to-balance-array) |
 <!---LeetCode Topics End-->
