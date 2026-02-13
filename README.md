@@ -259,6 +259,7 @@ npm run lint-test     Test all code is linted properly
 | [3531-count-covered-buildings](https://github.com/dennis23314063/LeetHub/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dennis23314063/LeetHub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/dennis23314063/LeetHub/tree/master/3623-count-number-of-trapezoids-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/dennis23314063/LeetHub/tree/master/3714-longest-balanced-substring-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -273,6 +274,7 @@ npm run lint-test     Test all code is linted properly
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/dennis23314063/LeetHub/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dennis23314063/LeetHub/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dennis23314063/LeetHub/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3714-longest-balanced-substring-ii](https://github.com/dennis23314063/LeetHub/tree/master/3714-longest-balanced-substring-ii) |
 ## Counting
 |  |
 | ------- |
@@ -289,6 +291,7 @@ npm run lint-test     Test all code is linted properly
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/dennis23314063/LeetHub/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dennis23314063/LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/dennis23314063/LeetHub/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3714-longest-balanced-substring-ii](https://github.com/dennis23314063/LeetHub/tree/master/3714-longest-balanced-substring-ii) |
 ## Stack
 |  |
 | ------- |
