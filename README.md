@@ -113,6 +113,7 @@ npm run lint-test     Test all code is linted properly
 | [0066-plus-one](https://github.com/dennis23314063/LeetHub/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/dennis23314063/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/dennis23314063/LeetHub/tree/master/0120-triangle) |
+| [0169-majority-element](https://github.com/dennis23314063/LeetHub/tree/master/0169-majority-element) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dennis23314063/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
 | [0611-valid-triangle-number](https://github.com/dennis23314063/LeetHub/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dennis23314063/LeetHub/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -186,6 +187,7 @@ npm run lint-test     Test all code is linted properly
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dennis23314063/LeetHub/tree/master/0169-majority-element) |
 | [0611-valid-triangle-number](https://github.com/dennis23314063/LeetHub/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/dennis23314063/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/dennis23314063/LeetHub/tree/master/1200-minimum-absolute-difference) |
@@ -249,6 +251,7 @@ npm run lint-test     Test all code is linted properly
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dennis23314063/LeetHub/tree/master/0169-majority-element) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dennis23314063/LeetHub/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dennis23314063/LeetHub/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dennis23314063/LeetHub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -278,6 +281,7 @@ npm run lint-test     Test all code is linted properly
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dennis23314063/LeetHub/tree/master/0169-majority-element) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dennis23314063/LeetHub/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## String
 |  |
@@ -336,4 +340,8 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [3634-minimum-removals-to-balance-array](https://github.com/dennis23314063/LeetHub/tree/master/3634-minimum-removals-to-balance-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dennis23314063/LeetHub/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
