@@ -1,8 +1,9 @@
 class Solution {
 public:
     string toHex(int num) {
-        char ans[15];
+        char ans[9];
         sprintf(ans,"%x",num);
         return ans;
+        
     }
 };
