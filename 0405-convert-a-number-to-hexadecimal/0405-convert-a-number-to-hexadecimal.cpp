@@ -1,9 +1,10 @@
 class Solution {
 public:
-    string toHex(int num) {
-        char ans[9];
-        sprintf(ans,"%x",num);
+    string toHex(unsigned num) {
+        string ans;
+        stringstream ss;
+        ss<<std::hex<<num;
+        ss>>ans;
         return ans;
-        
     }
 };
