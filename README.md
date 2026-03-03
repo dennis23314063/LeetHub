@@ -232,6 +232,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/dennis23314063/LeetHub/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/dennis23314063/LeetHub/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/dennis23314063/LeetHub/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/dennis23314063/LeetHub/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/dennis23314063/LeetHub/tree/master/2288-count-operations-to-obtain-zero) |
@@ -301,6 +302,7 @@ npm run lint-test     Test all code is linted properly
 | [0944-delete-columns-to-make-sorted](https://github.com/dennis23314063/LeetHub/tree/master/0944-delete-columns-to-make-sorted) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dennis23314063/LeetHub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/dennis23314063/LeetHub/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/dennis23314063/LeetHub/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/dennis23314063/LeetHub/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dennis23314063/LeetHub/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dennis23314063/LeetHub/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -363,4 +365,8 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dennis23314063/LeetHub/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/dennis23314063/LeetHub/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
