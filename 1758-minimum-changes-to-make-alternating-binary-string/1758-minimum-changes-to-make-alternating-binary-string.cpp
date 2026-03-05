@@ -7,7 +7,6 @@ public:
             if(check&&i=='0'||!check&&i=='1')ans++;
             check = !check;
         }
-        cout<<ans<<' '<<s.size()-ans<<endl;
         return std::min(ans,(int)s.size()-ans);
     }
 };
