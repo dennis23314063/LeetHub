@@ -117,6 +117,7 @@ npm run lint-test     Test all code is linted properly
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dennis23314063/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dennis23314063/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/dennis23314063/LeetHub/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/dennis23314063/LeetHub/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dennis23314063/LeetHub/tree/master/0283-move-zeroes) |
 | [0307-range-sum-query-mutable](https://github.com/dennis23314063/LeetHub/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/dennis23314063/LeetHub/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -173,6 +174,7 @@ npm run lint-test     Test all code is linted properly
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/dennis23314063/LeetHub/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dennis23314063/LeetHub/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/dennis23314063/LeetHub/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/dennis23314063/LeetHub/tree/master/0696-count-binary-substrings) |
@@ -220,6 +222,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/dennis23314063/LeetHub/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/dennis23314063/LeetHub/tree/master/0189-rotate-array) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dennis23314063/LeetHub/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dennis23314063/LeetHub/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/dennis23314063/LeetHub/tree/master/1018-largest-perimeter-triangle) |
