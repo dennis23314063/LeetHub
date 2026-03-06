@@ -116,6 +116,7 @@ npm run lint-test     Test all code is linted properly
 | [0120-triangle](https://github.com/dennis23314063/LeetHub/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/dennis23314063/LeetHub/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/dennis23314063/LeetHub/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/dennis23314063/LeetHub/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dennis23314063/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
 | [0611-valid-triangle-number](https://github.com/dennis23314063/LeetHub/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dennis23314063/LeetHub/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -174,6 +175,7 @@ npm run lint-test     Test all code is linted properly
 ## Binary Search
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/dennis23314063/LeetHub/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0611-valid-triangle-number](https://github.com/dennis23314063/LeetHub/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dennis23314063/LeetHub/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1612-avoid-flood-in-the-city](https://github.com/dennis23314063/LeetHub/tree/master/1612-avoid-flood-in-the-city) |
@@ -374,6 +376,7 @@ npm run lint-test     Test all code is linted properly
 | [0053-maximum-subarray](https://github.com/dennis23314063/LeetHub/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/dennis23314063/LeetHub/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/dennis23314063/LeetHub/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/dennis23314063/LeetHub/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Recursion
 |  |
 | ------- |
@@ -386,8 +389,18 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/dennis23314063/LeetHub/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/dennis23314063/LeetHub/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/dennis23314063/LeetHub/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/dennis23314063/LeetHub/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/dennis23314063/LeetHub/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/dennis23314063/LeetHub/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
