@@ -115,6 +115,7 @@ npm run lint-test     Test all code is linted properly
 | [0085-maximal-rectangle](https://github.com/dennis23314063/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/dennis23314063/LeetHub/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/dennis23314063/LeetHub/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/dennis23314063/LeetHub/tree/master/0283-move-zeroes) |
 | [0307-range-sum-query-mutable](https://github.com/dennis23314063/LeetHub/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/dennis23314063/LeetHub/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dennis23314063/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
@@ -168,6 +169,7 @@ npm run lint-test     Test all code is linted properly
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/dennis23314063/LeetHub/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/dennis23314063/LeetHub/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/dennis23314063/LeetHub/tree/master/0696-count-binary-substrings) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dennis23314063/LeetHub/tree/master/2392-successful-pairs-of-spells-and-potions) |
