@@ -115,6 +115,7 @@ npm run lint-test     Test all code is linted properly
 | [0085-maximal-rectangle](https://github.com/dennis23314063/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/dennis23314063/LeetHub/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/dennis23314063/LeetHub/tree/master/0169-majority-element) |
+| [0307-range-sum-query-mutable](https://github.com/dennis23314063/LeetHub/tree/master/0307-range-sum-query-mutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dennis23314063/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
 | [0611-valid-triangle-number](https://github.com/dennis23314063/LeetHub/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dennis23314063/LeetHub/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -372,8 +373,21 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0053-maximum-subarray](https://github.com/dennis23314063/LeetHub/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/dennis23314063/LeetHub/tree/master/0169-majority-element) |
+| [0307-range-sum-query-mutable](https://github.com/dennis23314063/LeetHub/tree/master/0307-range-sum-query-mutable) |
 ## Recursion
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/dennis23314063/LeetHub/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/dennis23314063/LeetHub/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/dennis23314063/LeetHub/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/dennis23314063/LeetHub/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
