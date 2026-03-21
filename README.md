@@ -157,6 +157,7 @@ npm run lint-test     Test all code is linted properly
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/dennis23314063/LeetHub/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/dennis23314063/LeetHub/tree/master/3623-count-number-of-trapezoids-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dennis23314063/LeetHub/tree/master/3634-minimum-removals-to-balance-array) |
+| [3643-flip-square-submatrix-vertically](https://github.com/dennis23314063/LeetHub/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -182,6 +183,7 @@ npm run lint-test     Test all code is linted properly
 | [0696-count-binary-substrings](https://github.com/dennis23314063/LeetHub/tree/master/0696-count-binary-substrings) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dennis23314063/LeetHub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dennis23314063/LeetHub/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3643-flip-square-submatrix-vertically](https://github.com/dennis23314063/LeetHub/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
 | ------- |
@@ -277,6 +279,7 @@ npm run lint-test     Test all code is linted properly
 | [1975-maximum-matrix-sum](https://github.com/dennis23314063/LeetHub/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dennis23314063/LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2625-increment-submatrices-by-one](https://github.com/dennis23314063/LeetHub/tree/master/2625-increment-submatrices-by-one) |
+| [3643-flip-square-submatrix-vertically](https://github.com/dennis23314063/LeetHub/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
 | ------- |
