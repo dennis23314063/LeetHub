@@ -135,6 +135,7 @@ npm run lint-test     Test all code is linted properly
 | [1612-avoid-flood-in-the-city](https://github.com/dennis23314063/LeetHub/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dennis23314063/LeetHub/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dennis23314063/LeetHub/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dennis23314063/LeetHub/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/dennis23314063/LeetHub/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/dennis23314063/LeetHub/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/dennis23314063/LeetHub/tree/master/1980-find-unique-binary-string) |
@@ -275,6 +276,7 @@ npm run lint-test     Test all code is linted properly
 | [0085-maximal-rectangle](https://github.com/dennis23314063/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dennis23314063/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/dennis23314063/LeetHub/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dennis23314063/LeetHub/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/dennis23314063/LeetHub/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/dennis23314063/LeetHub/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dennis23314063/LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
