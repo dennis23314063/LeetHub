@@ -131,6 +131,7 @@ npm run lint-test     Test all code is linted properly
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dennis23314063/LeetHub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dennis23314063/LeetHub/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/dennis23314063/LeetHub/tree/master/1390-four-divisors) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/dennis23314063/LeetHub/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/dennis23314063/LeetHub/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/dennis23314063/LeetHub/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dennis23314063/LeetHub/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -265,17 +266,20 @@ npm run lint-test     Test all code is linted properly
 | [0417-pacific-atlantic-water-flow](https://github.com/dennis23314063/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dennis23314063/LeetHub/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dennis23314063/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/dennis23314063/LeetHub/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/dennis23314063/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dennis23314063/LeetHub/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dennis23314063/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/dennis23314063/LeetHub/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/dennis23314063/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dennis23314063/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/dennis23314063/LeetHub/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/dennis23314063/LeetHub/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dennis23314063/LeetHub/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/dennis23314063/LeetHub/tree/master/1895-largest-magic-square) |
@@ -430,4 +434,8 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/dennis23314063/LeetHub/tree/master/1980-find-unique-binary-string) |
+## Union-Find
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/dennis23314063/LeetHub/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
