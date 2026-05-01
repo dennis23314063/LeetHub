@@ -121,6 +121,7 @@ npm run lint-test     Test all code is linted properly
 | [0283-move-zeroes](https://github.com/dennis23314063/LeetHub/tree/master/0283-move-zeroes) |
 | [0307-range-sum-query-mutable](https://github.com/dennis23314063/LeetHub/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/dennis23314063/LeetHub/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0396-rotate-function](https://github.com/dennis23314063/LeetHub/tree/master/0396-rotate-function) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dennis23314063/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
 | [0611-valid-triangle-number](https://github.com/dennis23314063/LeetHub/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dennis23314063/LeetHub/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -171,6 +172,7 @@ npm run lint-test     Test all code is linted properly
 | [0120-triangle](https://github.com/dennis23314063/LeetHub/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dennis23314063/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dennis23314063/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0396-rotate-function](https://github.com/dennis23314063/LeetHub/tree/master/0396-rotate-function) |
 | [0799-champagne-tower](https://github.com/dennis23314063/LeetHub/tree/master/0799-champagne-tower) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dennis23314063/LeetHub/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dennis23314063/LeetHub/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -233,6 +235,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0066-plus-one](https://github.com/dennis23314063/LeetHub/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/dennis23314063/LeetHub/tree/master/0189-rotate-array) |
+| [0396-rotate-function](https://github.com/dennis23314063/LeetHub/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dennis23314063/LeetHub/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dennis23314063/LeetHub/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/dennis23314063/LeetHub/tree/master/1018-largest-perimeter-triangle) |
