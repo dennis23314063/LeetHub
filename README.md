@@ -173,6 +173,7 @@ npm run lint-test     Test all code is linted properly
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dennis23314063/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dennis23314063/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0396-rotate-function](https://github.com/dennis23314063/LeetHub/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/dennis23314063/LeetHub/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/dennis23314063/LeetHub/tree/master/0799-champagne-tower) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dennis23314063/LeetHub/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dennis23314063/LeetHub/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -237,6 +238,7 @@ npm run lint-test     Test all code is linted properly
 | [0189-rotate-array](https://github.com/dennis23314063/LeetHub/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/dennis23314063/LeetHub/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dennis23314063/LeetHub/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0788-rotated-digits](https://github.com/dennis23314063/LeetHub/tree/master/0788-rotated-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dennis23314063/LeetHub/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/dennis23314063/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1390-four-divisors](https://github.com/dennis23314063/LeetHub/tree/master/1390-four-divisors) |
