@@ -123,6 +123,7 @@ npm run lint-test     Test all code is linted properly
 | [0315-count-of-smaller-numbers-after-self](https://github.com/dennis23314063/LeetHub/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0396-rotate-function](https://github.com/dennis23314063/LeetHub/tree/master/0396-rotate-function) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dennis23314063/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/dennis23314063/LeetHub/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/dennis23314063/LeetHub/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dennis23314063/LeetHub/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0944-delete-columns-to-make-sorted](https://github.com/dennis23314063/LeetHub/tree/master/0944-delete-columns-to-make-sorted) |
@@ -188,6 +189,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0189-rotate-array](https://github.com/dennis23314063/LeetHub/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dennis23314063/LeetHub/tree/master/0283-move-zeroes) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/dennis23314063/LeetHub/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/dennis23314063/LeetHub/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/dennis23314063/LeetHub/tree/master/0696-count-binary-substrings) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dennis23314063/LeetHub/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -197,6 +199,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/dennis23314063/LeetHub/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/dennis23314063/LeetHub/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/dennis23314063/LeetHub/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dennis23314063/LeetHub/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1612-avoid-flood-in-the-city](https://github.com/dennis23314063/LeetHub/tree/master/1612-avoid-flood-in-the-city) |
@@ -220,6 +223,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dennis23314063/LeetHub/tree/master/0169-majority-element) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/dennis23314063/LeetHub/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/dennis23314063/LeetHub/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/dennis23314063/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/dennis23314063/LeetHub/tree/master/1200-minimum-absolute-difference) |
@@ -307,6 +311,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dennis23314063/LeetHub/tree/master/0169-majority-element) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/dennis23314063/LeetHub/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dennis23314063/LeetHub/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dennis23314063/LeetHub/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dennis23314063/LeetHub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
