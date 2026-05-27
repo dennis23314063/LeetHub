@@ -318,6 +318,7 @@ npm run lint-test     Test all code is linted properly
 | [1612-avoid-flood-in-the-city](https://github.com/dennis23314063/LeetHub/tree/master/1612-avoid-flood-in-the-city) |
 | [1980-find-unique-binary-string](https://github.com/dennis23314063/LeetHub/tree/master/1980-find-unique-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dennis23314063/LeetHub/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/dennis23314063/LeetHub/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/dennis23314063/LeetHub/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dennis23314063/LeetHub/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/dennis23314063/LeetHub/tree/master/3531-count-covered-buildings) |
@@ -366,6 +367,7 @@ npm run lint-test     Test all code is linted properly
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/dennis23314063/LeetHub/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dennis23314063/LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/dennis23314063/LeetHub/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/dennis23314063/LeetHub/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/dennis23314063/LeetHub/tree/master/3714-longest-balanced-substring-ii) |
 ## Stack
 |  |
