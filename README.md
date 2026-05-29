@@ -155,6 +155,7 @@ npm run lint-test     Test all code is linted properly
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/dennis23314063/LeetHub/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/dennis23314063/LeetHub/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dennis23314063/LeetHub/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dennis23314063/LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dennis23314063/LeetHub/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/dennis23314063/LeetHub/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dennis23314063/LeetHub/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -261,6 +262,7 @@ npm run lint-test     Test all code is linted properly
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dennis23314063/LeetHub/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/dennis23314063/LeetHub/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dennis23314063/LeetHub/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dennis23314063/LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/dennis23314063/LeetHub/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dennis23314063/LeetHub/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dennis23314063/LeetHub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
