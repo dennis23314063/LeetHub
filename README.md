@@ -281,6 +281,7 @@ npm run lint-test     Test all code is linted properly
 | [1914-cyclically-rotating-a-grid](https://github.com/dennis23314063/LeetHub/tree/master/1914-cyclically-rotating-a-grid) |
 | [2288-count-operations-to-obtain-zero](https://github.com/dennis23314063/LeetHub/tree/master/2288-count-operations-to-obtain-zero) |
 | [3336-water-bottles-ii](https://github.com/dennis23314063/LeetHub/tree/master/3336-water-bottles-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/dennis23314063/LeetHub/tree/master/3612-process-string-with-special-operations-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -374,6 +375,7 @@ npm run lint-test     Test all code is linted properly
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dennis23314063/LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/dennis23314063/LeetHub/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/dennis23314063/LeetHub/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/dennis23314063/LeetHub/tree/master/3612-process-string-with-special-operations-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/dennis23314063/LeetHub/tree/master/3714-longest-balanced-substring-ii) |
 ## Stack
 |  |
