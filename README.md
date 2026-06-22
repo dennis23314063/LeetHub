@@ -322,6 +322,7 @@ npm run lint-test     Test all code is linted properly
 | [0532-k-diff-pairs-in-an-array](https://github.com/dennis23314063/LeetHub/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dennis23314063/LeetHub/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dennis23314063/LeetHub/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/dennis23314063/LeetHub/tree/master/1189-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dennis23314063/LeetHub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/dennis23314063/LeetHub/tree/master/1612-avoid-flood-in-the-city) |
 | [1980-find-unique-binary-string](https://github.com/dennis23314063/LeetHub/tree/master/1980-find-unique-binary-string) |
@@ -353,6 +354,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dennis23314063/LeetHub/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/dennis23314063/LeetHub/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dennis23314063/LeetHub/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dennis23314063/LeetHub/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## String
@@ -361,6 +363,7 @@ npm run lint-test     Test all code is linted properly
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dennis23314063/LeetHub/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0696-count-binary-substrings](https://github.com/dennis23314063/LeetHub/tree/master/0696-count-binary-substrings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/dennis23314063/LeetHub/tree/master/0944-delete-columns-to-make-sorted) |
+| [1189-maximum-number-of-balloons](https://github.com/dennis23314063/LeetHub/tree/master/1189-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dennis23314063/LeetHub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/dennis23314063/LeetHub/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/dennis23314063/LeetHub/tree/master/1545-find-kth-bit-in-nth-binary-string) |
