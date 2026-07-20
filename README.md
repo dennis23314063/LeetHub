@@ -130,6 +130,7 @@ npm run lint-test     Test all code is linted properly
 | [1018-largest-perimeter-triangle](https://github.com/dennis23314063/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/dennis23314063/LeetHub/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/dennis23314063/LeetHub/tree/master/1200-minimum-absolute-difference) |
+| [1260-shift-2d-grid](https://github.com/dennis23314063/LeetHub/tree/master/1260-shift-2d-grid) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dennis23314063/LeetHub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dennis23314063/LeetHub/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/dennis23314063/LeetHub/tree/master/1390-four-divisors) |
@@ -280,6 +281,7 @@ npm run lint-test     Test all code is linted properly
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/dennis23314063/LeetHub/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/dennis23314063/LeetHub/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/dennis23314063/LeetHub/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/dennis23314063/LeetHub/tree/master/1642-water-bottles) |
@@ -310,6 +312,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0085-maximal-rectangle](https://github.com/dennis23314063/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dennis23314063/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
+| [1260-shift-2d-grid](https://github.com/dennis23314063/LeetHub/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dennis23314063/LeetHub/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/dennis23314063/LeetHub/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/dennis23314063/LeetHub/tree/master/1582-special-positions-in-a-binary-matrix) |
