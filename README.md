@@ -166,6 +166,7 @@ npm run lint-test     Test all code is linted properly
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dennis23314063/LeetHub/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dennis23314063/LeetHub/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dennis23314063/LeetHub/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/dennis23314063/LeetHub/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3531-count-covered-buildings](https://github.com/dennis23314063/LeetHub/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dennis23314063/LeetHub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/dennis23314063/LeetHub/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -275,6 +276,7 @@ npm run lint-test     Test all code is linted properly
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dennis23314063/LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/dennis23314063/LeetHub/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dennis23314063/LeetHub/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/dennis23314063/LeetHub/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dennis23314063/LeetHub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/dennis23314063/LeetHub/tree/master/3623-count-number-of-trapezoids-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dennis23314063/LeetHub/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -423,6 +425,7 @@ npm run lint-test     Test all code is linted properly
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/dennis23314063/LeetHub/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dennis23314063/LeetHub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dennis23314063/LeetHub/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/dennis23314063/LeetHub/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -433,6 +436,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/dennis23314063/LeetHub/tree/master/1925-count-square-sum-triples) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/dennis23314063/LeetHub/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/dennis23314063/LeetHub/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Tree
 |  |
 | ------- |
