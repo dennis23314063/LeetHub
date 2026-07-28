@@ -249,6 +249,7 @@ npm run lint-test     Test all code is linted properly
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dennis23314063/LeetHub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/dennis23314063/LeetHub/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dennis23314063/LeetHub/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/dennis23314063/LeetHub/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3531-count-covered-buildings](https://github.com/dennis23314063/LeetHub/tree/master/3531-count-covered-buildings) |
 | [3536-maximum-product-of-two-digits](https://github.com/dennis23314063/LeetHub/tree/master/3536-maximum-product-of-two-digits) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dennis23314063/LeetHub/tree/master/3634-minimum-removals-to-balance-array) |
@@ -402,6 +403,7 @@ npm run lint-test     Test all code is linted properly
 | [2483-minimum-penalty-for-a-shop](https://github.com/dennis23314063/LeetHub/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/dennis23314063/LeetHub/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/dennis23314063/LeetHub/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/dennis23314063/LeetHub/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/dennis23314063/LeetHub/tree/master/3612-process-string-with-special-operations-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/dennis23314063/LeetHub/tree/master/3714-longest-balanced-substring-ii) |
 ## Stack
@@ -507,4 +509,8 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dennis23314063/LeetHub/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/dennis23314063/LeetHub/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
