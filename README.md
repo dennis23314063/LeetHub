@@ -305,6 +305,7 @@ npm run lint-test     Test all code is linted properly
 | [1914-cyclically-rotating-a-grid](https://github.com/dennis23314063/LeetHub/tree/master/1914-cyclically-rotating-a-grid) |
 | [2288-count-operations-to-obtain-zero](https://github.com/dennis23314063/LeetHub/tree/master/2288-count-operations-to-obtain-zero) |
 | [3336-water-bottles-ii](https://github.com/dennis23314063/LeetHub/tree/master/3336-water-bottles-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/dennis23314063/LeetHub/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/dennis23314063/LeetHub/tree/master/3612-process-string-with-special-operations-i) |
 ## Depth-First Search
 |  |
@@ -409,6 +410,7 @@ npm run lint-test     Test all code is linted properly
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dennis23314063/LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/dennis23314063/LeetHub/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/dennis23314063/LeetHub/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/dennis23314063/LeetHub/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/dennis23314063/LeetHub/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dennis23314063/LeetHub/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/dennis23314063/LeetHub/tree/master/3612-process-string-with-special-operations-i) |
