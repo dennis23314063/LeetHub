@@ -418,6 +418,7 @@ npm run lint-test     Test all code is linted properly
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dennis23314063/LeetHub/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/dennis23314063/LeetHub/tree/master/3612-process-string-with-special-operations-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/dennis23314063/LeetHub/tree/master/3714-longest-balanced-substring-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/dennis23314063/LeetHub/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
