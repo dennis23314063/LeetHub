@@ -178,6 +178,7 @@ npm run lint-test     Test all code is linted properly
 | [3623-count-number-of-trapezoids-i](https://github.com/dennis23314063/LeetHub/tree/master/3623-count-number-of-trapezoids-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dennis23314063/LeetHub/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/dennis23314063/LeetHub/tree/master/3643-flip-square-submatrix-vertically) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/dennis23314063/LeetHub/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
