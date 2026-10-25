@@ -132,6 +132,7 @@ npm run lint-test     Test all code is linted properly
 | [1018-largest-perimeter-triangle](https://github.com/dennis23314063/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/dennis23314063/LeetHub/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/dennis23314063/LeetHub/tree/master/1200-minimum-absolute-difference) |
+| [1254-number-of-closed-islands](https://github.com/dennis23314063/LeetHub/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/dennis23314063/LeetHub/tree/master/1260-shift-2d-grid) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dennis23314063/LeetHub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dennis23314063/LeetHub/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -318,6 +319,7 @@ npm run lint-test     Test all code is linted properly
 | [0417-pacific-atlantic-water-flow](https://github.com/dennis23314063/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dennis23314063/LeetHub/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dennis23314063/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/dennis23314063/LeetHub/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dennis23314063/LeetHub/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/dennis23314063/LeetHub/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
@@ -326,6 +328,7 @@ npm run lint-test     Test all code is linted properly
 | [0417-pacific-atlantic-water-flow](https://github.com/dennis23314063/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dennis23314063/LeetHub/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dennis23314063/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/dennis23314063/LeetHub/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dennis23314063/LeetHub/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/dennis23314063/LeetHub/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dennis23314063/LeetHub/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -334,6 +337,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0085-maximal-rectangle](https://github.com/dennis23314063/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dennis23314063/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
+| [1254-number-of-closed-islands](https://github.com/dennis23314063/LeetHub/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/dennis23314063/LeetHub/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dennis23314063/LeetHub/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/dennis23314063/LeetHub/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -519,6 +523,7 @@ npm run lint-test     Test all code is linted properly
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/dennis23314063/LeetHub/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dennis23314063/LeetHub/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/dennis23314063/LeetHub/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dennis23314063/LeetHub/tree/master/2812-find-the-safest-path-in-a-grid) |
