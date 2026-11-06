@@ -161,6 +161,7 @@ npm run lint-test     Test all code is linted properly
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dennis23314063/LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dennis23314063/LeetHub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2625-increment-submatrices-by-one](https://github.com/dennis23314063/LeetHub/tree/master/2625-increment-submatrices-by-one) |
+| [2747-count-zero-request-servers](https://github.com/dennis23314063/LeetHub/tree/master/2747-count-zero-request-servers) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dennis23314063/LeetHub/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dennis23314063/LeetHub/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/dennis23314063/LeetHub/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -257,6 +258,7 @@ npm run lint-test     Test all code is linted properly
 | [2141-maximum-running-time-of-n-computers](https://github.com/dennis23314063/LeetHub/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dennis23314063/LeetHub/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dennis23314063/LeetHub/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2747-count-zero-request-servers](https://github.com/dennis23314063/LeetHub/tree/master/2747-count-zero-request-servers) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/dennis23314063/LeetHub/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dennis23314063/LeetHub/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dennis23314063/LeetHub/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -364,6 +366,7 @@ npm run lint-test     Test all code is linted properly
 | [1612-avoid-flood-in-the-city](https://github.com/dennis23314063/LeetHub/tree/master/1612-avoid-flood-in-the-city) |
 | [1980-find-unique-binary-string](https://github.com/dennis23314063/LeetHub/tree/master/1980-find-unique-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dennis23314063/LeetHub/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2747-count-zero-request-servers](https://github.com/dennis23314063/LeetHub/tree/master/2747-count-zero-request-servers) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/dennis23314063/LeetHub/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/dennis23314063/LeetHub/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dennis23314063/LeetHub/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -482,6 +485,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dennis23314063/LeetHub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/dennis23314063/LeetHub/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2747-count-zero-request-servers](https://github.com/dennis23314063/LeetHub/tree/master/2747-count-zero-request-servers) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dennis23314063/LeetHub/tree/master/3634-minimum-removals-to-balance-array) |
 ## Divide and Conquer
 |  |
