@@ -424,6 +424,7 @@ npm run lint-test     Test all code is linted properly
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dennis23314063/LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2409-count-days-spent-together](https://github.com/dennis23314063/LeetHub/tree/master/2409-count-days-spent-together) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/dennis23314063/LeetHub/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/dennis23314063/LeetHub/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/dennis23314063/LeetHub/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/dennis23314063/LeetHub/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/dennis23314063/LeetHub/tree/master/3499-maximize-active-section-with-trade-i) |
