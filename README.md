@@ -160,6 +160,7 @@ npm run lint-test     Test all code is linted properly
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dennis23314063/LeetHub/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dennis23314063/LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dennis23314063/LeetHub/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/dennis23314063/LeetHub/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2625-increment-submatrices-by-one](https://github.com/dennis23314063/LeetHub/tree/master/2625-increment-submatrices-by-one) |
 | [2747-count-zero-request-servers](https://github.com/dennis23314063/LeetHub/tree/master/2747-count-zero-request-servers) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dennis23314063/LeetHub/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -241,6 +242,7 @@ npm run lint-test     Test all code is linted properly
 | [1975-maximum-matrix-sum](https://github.com/dennis23314063/LeetHub/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/dennis23314063/LeetHub/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dennis23314063/LeetHub/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/dennis23314063/LeetHub/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/dennis23314063/LeetHub/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Sorting
 |  |
@@ -259,6 +261,7 @@ npm run lint-test     Test all code is linted properly
 | [2141-maximum-running-time-of-n-computers](https://github.com/dennis23314063/LeetHub/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dennis23314063/LeetHub/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dennis23314063/LeetHub/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/dennis23314063/LeetHub/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/dennis23314063/LeetHub/tree/master/2747-count-zero-request-servers) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/dennis23314063/LeetHub/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dennis23314063/LeetHub/tree/master/3437-maximum-total-damage-with-spell-casting) |
