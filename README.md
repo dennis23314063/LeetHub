@@ -134,6 +134,7 @@ npm run lint-test     Test all code is linted properly
 | [1200-minimum-absolute-difference](https://github.com/dennis23314063/LeetHub/tree/master/1200-minimum-absolute-difference) |
 | [1254-number-of-closed-islands](https://github.com/dennis23314063/LeetHub/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/dennis23314063/LeetHub/tree/master/1260-shift-2d-grid) |
+| [1352-product-of-the-last-k-numbers](https://github.com/dennis23314063/LeetHub/tree/master/1352-product-of-the-last-k-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dennis23314063/LeetHub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dennis23314063/LeetHub/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/dennis23314063/LeetHub/tree/master/1390-four-divisors) |
@@ -280,6 +281,7 @@ npm run lint-test     Test all code is linted properly
 | [0788-rotated-digits](https://github.com/dennis23314063/LeetHub/tree/master/0788-rotated-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dennis23314063/LeetHub/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/dennis23314063/LeetHub/tree/master/1018-largest-perimeter-triangle) |
+| [1352-product-of-the-last-k-numbers](https://github.com/dennis23314063/LeetHub/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/dennis23314063/LeetHub/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/dennis23314063/LeetHub/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/dennis23314063/LeetHub/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -387,6 +389,7 @@ npm run lint-test     Test all code is linted properly
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/dennis23314063/LeetHub/tree/master/1352-product-of-the-last-k-numbers) |
 | [1732-find-the-highest-altitude](https://github.com/dennis23314063/LeetHub/tree/master/1732-find-the-highest-altitude) |
 | [1895-largest-magic-square](https://github.com/dennis23314063/LeetHub/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dennis23314063/LeetHub/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -510,6 +513,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/dennis23314063/LeetHub/tree/master/0307-range-sum-query-mutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/dennis23314063/LeetHub/tree/master/1352-product-of-the-last-k-numbers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -547,4 +551,8 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dennis23314063/LeetHub/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/dennis23314063/LeetHub/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
