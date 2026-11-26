@@ -301,6 +301,7 @@ npm run lint-test     Test all code is linted properly
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dennis23314063/LeetHub/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dennis23314063/LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/dennis23314063/LeetHub/tree/master/3336-water-bottles-ii) |
+| [3360-stone-removal-game](https://github.com/dennis23314063/LeetHub/tree/master/3360-stone-removal-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dennis23314063/LeetHub/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/dennis23314063/LeetHub/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/dennis23314063/LeetHub/tree/master/3536-maximum-product-of-two-digits) |
@@ -319,6 +320,7 @@ npm run lint-test     Test all code is linted properly
 | [1914-cyclically-rotating-a-grid](https://github.com/dennis23314063/LeetHub/tree/master/1914-cyclically-rotating-a-grid) |
 | [2288-count-operations-to-obtain-zero](https://github.com/dennis23314063/LeetHub/tree/master/2288-count-operations-to-obtain-zero) |
 | [3336-water-bottles-ii](https://github.com/dennis23314063/LeetHub/tree/master/3336-water-bottles-ii) |
+| [3360-stone-removal-game](https://github.com/dennis23314063/LeetHub/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/dennis23314063/LeetHub/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/dennis23314063/LeetHub/tree/master/3612-process-string-with-special-operations-i) |
 ## Depth-First Search
